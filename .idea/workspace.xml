@@ -179,9 +179,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="185" />
-    <option name="y" value="99" />
-    <option name="width" value="1689" />
+    <option name="x" value="378" />
+    <option name="y" value="48" />
+    <option name="width" value="1527" />
     <option name="height" value="899" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -257,7 +257,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570791483040" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570791627035" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />

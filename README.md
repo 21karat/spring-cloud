@@ -24,5 +24,5 @@
 存在feign集成了hystrix，而hystrix默认的超时时间是1秒，<br>
 如果我们的请求超过了1秒，那么就会报超时错误的问题，延长超时时间还是时有时无出现这个问题。<br>
 @EnableZuulProxy：开启zuul的功能。<br>
-zuul不仅只是路由，并且还能过滤，做一些安全验证。[实现类](https://github.com/21karat/spring-cloud/cloud-zuul/src/main/java/com/karat/cn/cloudzuul/filter/MyFilter.java) <br>
+zuul不仅只是路由，并且还能过滤，做一些安全验证。[实现类](https://github.com/21karat/spring-cloud/blob/master/cloud-zuul/src/main/java/com/karat/cn/cloudzuul/filter/MyFilter.java) <br>
 
