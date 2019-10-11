@@ -26,6 +26,7 @@
         <module>cloud-client-service</module>
         <module>cloud-ribbon</module>
         <module>cloud-feign</module>
+        <module>cloud-zuul</module>
     </modules>
 
 

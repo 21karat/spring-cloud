@@ -11,6 +11,7 @@
         <module name="cloud-eureka" />
         <module name="cloud-feign" />
         <module name="cloud-ribbon" />
+        <module name="cloud-zuul" />
       </profile>
     </annotationProcessing>
   </component>
